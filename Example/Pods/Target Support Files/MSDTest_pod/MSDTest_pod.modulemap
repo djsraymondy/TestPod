@@ -1,0 +1,6 @@
+framework module MSDTest_pod {
+  umbrella header "MSDTest_pod-umbrella.h"
+
+  export *
+  module * { export * }
+}

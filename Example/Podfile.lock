@@ -1,0 +1,16 @@
+PODS:
+  - MSDTest_pod (0.1.0)
+
+DEPENDENCIES:
+  - MSDTest_pod (from `../`)
+
+EXTERNAL SOURCES:
+  MSDTest_pod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MSDTest_pod: 55dfdd269d04fb063bd4577fe6fccac8f2caa573
+
+PODFILE CHECKSUM: 9048bfe58c61f5e877fe27808cf1858fe41b949e
+
+COCOAPODS: 1.10.0
